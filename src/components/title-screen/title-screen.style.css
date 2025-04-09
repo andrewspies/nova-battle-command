@@ -1,0 +1,13 @@
+:host(app-title-screen) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000;
+}
+
+h3 {
+  color: #e8c545;
+  font-size: 2rem;
+  text-align: center;
+}
